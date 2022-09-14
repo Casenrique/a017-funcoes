@@ -32,3 +32,4 @@ const tabuada = function (numero){
 }
     
 tabuada(6) 
+tabuada(8)
